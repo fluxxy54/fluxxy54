@@ -9,7 +9,7 @@
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,html,css,bootstrap,latex,notion,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,html,css,bootstrap,latex,notion,ps,ai,xd,figma,windows)](https://skillicons.dev)
 
 
 ## 🌐 Socials:
