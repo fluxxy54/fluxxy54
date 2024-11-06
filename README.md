@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-##Tech stack
+## Tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,bootstrap,windows)](https://skillicons.dev)
